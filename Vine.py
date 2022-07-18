@@ -24,7 +24,9 @@ ____   ____.__
  
 [6] WifiKit - Wiki Hacking Toolbox
 
-[7] Quit
+[7] XCTR - Hacking Tool Swept
+
+[8] Quit
              
              """)
 
@@ -56,4 +58,10 @@ if menu == '6':
     os.system('sudo python3 Wifi-Hacking.py')
     
 if menu == '7':
+    os.system('clear')
+    os.chdir('extra/XCTR-Hacking-Tools/')
+    os.system('pip3 install -r requirements.txt')
+    os.system('python3 xctr.py')
+    
+if menu == '8':
     quit()
