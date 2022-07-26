@@ -15,6 +15,6 @@ python3 vine.py
 
 # Todo
 - [X] Add More Tools
-- [ ] Add Nmap And Ncat Scripts
-- [X] Add more ADB Scripst
-- [ ] Add Shell Scripts
+- [ ] Add Nmap And Ncat Tools
+- [X] Add ADB Tools
+- [ ] Add Shell Tools
