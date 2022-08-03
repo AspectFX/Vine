@@ -7,7 +7,7 @@ This tool was made for education purposes only! Some of the things you can do wi
 # Features
 - DDOS Tool
 - Wi-Fi Hacking Tools
-- Port Scanning
+- Brute Force Tool
 - Email Bomber
 - ADB Exploits
 - Other General Purpose Hacks
